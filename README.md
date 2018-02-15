@@ -25,7 +25,7 @@ bonus : 10%
 max token for sale : 100 000 000 
 min payment 0.5 ether
 
-Tier III (5 day)
+Tier III (7 day)
 Sale B
 bonus : 5%
 max token for sale : 130 000 000 
