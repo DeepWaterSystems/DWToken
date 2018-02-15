@@ -11,7 +11,7 @@ https://github.com/TokenMarketNet/ico
 https://oracles.org
 
 
-#Conditions
+# Conditions
 
 Tier I (14 day)
 Pre-Sale
